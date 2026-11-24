@@ -1,0 +1,11 @@
+﻿{
+    "generated":  "2026-11-24T15:26:58.2601863Z",
+    "total_nodes":  200,
+    "unique_ips":  29,
+    "unique_uuids":  7,
+    "protocol":  "VLESS",
+    "transport":  "WebSocket",
+    "security":  "TLS",
+    "invalid_lines":  0,
+    "source":  "New Text Document.txt"
+}
